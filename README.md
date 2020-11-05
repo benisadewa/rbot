@@ -1,15 +1,15 @@
-# botst4rz
-BOT WHATSAPP HP BINTANG NUR PRADANA
+# rbot
+BOT WHATSAPP VIA TERMUX BY REUZ
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
 ```bash
 > niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan qr)
-> internet yang memadai, kalo lu gapunya kuota pake kuota kemendikbud ae
+> internet yang memadai
 > aplikasi whatsapp
 > aplikasi termux
-> kopi
+> cemilan
 ```
 
 ### Cara Installnya
@@ -17,7 +17,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Bintang73/botst4rz.git
+> git clone https://github.com/benisadewa/rbot.git
 > cd botst4rz
 > bash install.sh
 > node index.js
@@ -26,7 +26,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| st4rz BOT       |                Feature           |
+| RBOT       |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
@@ -49,4 +49,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
+Gopay : 081271699856
