@@ -12,7 +12,7 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'BOT REUZ🖱'; // Nama Bot Whatsapp
+const BotName = 'SELAMAT DATANG TUAN GSOA 🐺'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/reuz.id'; // Nama Instagramlu cok
 const whatsapplu = '0812-7169-9856'; // Nomor whatsapplu cok
 const kapanbotaktif = 'KETIKA DI AKTIFKAN SAJA'; // Kapan bot lu aktif
